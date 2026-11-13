@@ -1,4 +1,3 @@
-# Centralized-Audit-Trail-Architecture
 # Centralized Audit Trail Compliance Engine – Lab 3
 
 ## Component Modelling & Architectural Pattern Selection
