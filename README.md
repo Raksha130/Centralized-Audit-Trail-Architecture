@@ -30,7 +30,7 @@ The UML Component Diagram includes the following components:
 
 ## Repository Contents
 
-- `component-diagram.png` – UML Component Diagram showing the system components, interfaces, and dependencies.
+- `component_diagram.png` – UML Component Diagram showing the system components, interfaces, and dependencies.
 - `architecture-justification.pdf` – Written justification for selecting the Layered Architecture.
 
 ## Lab Deliverables
